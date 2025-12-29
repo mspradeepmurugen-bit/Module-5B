@@ -20,5 +20,7 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 Add code here
 
 ## Output
+<img width="1054" height="428" alt="Screenshot 2025-12-29 204134" src="https://github.com/user-attachments/assets/467318b9-f914-4e95-a749-5d0b59e76000" />
 
 ## Result
+thus the python program is executed sucessfully
